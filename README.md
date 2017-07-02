@@ -1,5 +1,5 @@
-YIDAS Framework
-===============
+YIDAS PHP Framework
+===================
 
 A legacy PHP framework for previous usage since 2014.
 
@@ -7,8 +7,8 @@ This is a legacy PHP framework from my previous usage. It has not been used for 
 
 ---
 
-Structure
----------
+DIRECTORY STRUCTURE
+-------------------
 
 ```
 config/		:Init process and configuration files with variables
